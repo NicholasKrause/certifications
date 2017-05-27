@@ -5,3 +5,5 @@
 
 [<img src="http://www.littleoverlord.com/img/notary_public.png" target="_blank">](http://www.ilsos.gov/notary/index.jsp)
 
+[Google Android | Java Nanodegree](http://www.littleoverlord.com/cv/nicholas_krause_google_android_nanodegree.pdf)
+
