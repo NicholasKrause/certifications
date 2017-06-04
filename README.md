@@ -7,3 +7,4 @@
 
 [Google Android | Java Nanodegree](http://www.littleoverlord.com/cv/nicholas_krause_google_android_nanodegree.pdf)
 
+[Interactive Portfolio](http://www.littleoverlord.com/portfolio.html)
